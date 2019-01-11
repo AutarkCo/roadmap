@@ -3,7 +3,7 @@ If we end up having additional capacity we will tackle these “Nice to Haves”
 
 ## Cross-Application User Experience
 ### aragonAPI
-To provide internationalization of Aragon apps, enhancements to aragonAPI will also be necessary, and we will begin to implement changes for multi-language support, such as front-ends for right-to-left languages and creating a strings database where translations can be managed by the community. This will also tie with our Data initiative defined later in this proposal.
+To provide internationalization of Aragon apps, enhancements to aragonAPI will also be necessary, and we will begin to implement changes for multi-language support, such as front-ends for right-to-left languages and creating a strings database where translations can be managed by the community. This will also tie in to our Data initiative.
 ### Expanded Forwarder Options
 Depending on the viability of this research and potential use cases, this would require adding information into the App Center flow so different classes of forwarders can be identified and installed as needed within organizations. 
 
