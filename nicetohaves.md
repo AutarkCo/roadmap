@@ -1,5 +1,5 @@
 # Autark Flock Proposal: Nice to Haves
-If we end up having additional capacity we will tackle these “Nice to Haves”. We will create surveys where [Aragon Cooperative](https://forum.aragon.org/t/community-initiative-aragon-cooperative/356) members can participate to help prioritize.
+Please refer to our [Flock proposal](https://github.com/AutarkCo/flock/blob/master/teams/Autark/2019Q1-2.md) to see our proposed roadmap for Q1/Q2 of 2019. If we end up having additional capacity we will tackle these “Nice to Haves”. We will create surveys where [Aragon Cooperative](https://forum.aragon.org/t/community-initiative-aragon-cooperative/356) members can participate to help prioritize.
 
 ## Cross-Application User Experience
 ### aragonAPI
