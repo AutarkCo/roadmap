@@ -1,9 +1,10 @@
 # Autark Flock Proposal: Nice to Haves
 Please refer to our [Flock proposal](https://github.com/AutarkCo/flock/blob/master/teams/Autark/2019Q1-2.md) to see our proposed roadmap for Q1/Q2 of 2019. If we end up having additional capacity we will tackle these “Nice to Haves”. We will create surveys where [Aragon Cooperative](https://forum.aragon.org/t/community-initiative-aragon-cooperative/356) members can participate to help prioritize.
 
-## Cross-Application User Experience
+## Internationalization
 ### aragonAPI
 To provide internationalization of Aragon apps, enhancements to aragonAPI will also be necessary, and we will begin to implement changes for multi-language support, such as front-ends for right-to-left languages and creating a strings database where translations can be managed by the community. This will also tie in to our Data initiative.
+## Cross-Application User Experience
 ### Expanded Forwarder Options
 Depending on the viability of this research and potential use cases, this would require adding information into the App Center flow so different classes of forwarders can be identified and installed as needed within organizations. 
 
